@@ -1,0 +1,72 @@
+body {
+  justify-content: center;
+  justify-items: center;
+  font-family: "poppins", sans-serif;
+}
+.section1 {
+  background-color: rgb(155, 106, 106);
+  justify-self: center;
+  text-align: center;
+  height: 30rem;
+  width: 100rem;
+}
+.section1 h1 {
+  color: rgba(22, 22, 255, 0.904);
+  font-size: xx-large;
+  padding-top: 1rem;
+}
+.login {
+  background-color: white;
+  text-align: center;
+  width: 40rem;
+  border-radius: 0.5rem;
+  justify-self: center;
+  height: 22rem;
+}
+.login .p1 {
+  color: black;
+  font-weight: 400;
+  padding-top: 1rem;
+}
+#email {
+  width: 16rem;
+  height: 2rem;
+  border-radius: 0.2rem;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  box-shadow: none;
+}
+#password {
+  width: 16rem;
+  height: 2rem;
+  border-radius: 0.2rem;
+  box-shadow: white;
+  box-shadow: none;
+  margin-bottom: 0.5rem;
+}
+.log {
+  width: 17rem;
+  height: 2.5rem;
+  color: rgb(219, 219, 219);
+  font-size: medium;
+  border-radius: 0.4rem;
+}
+.p1 {
+  color: black;
+  font-size: large;
+}
+.log1 {
+  background-color: goldenrod;
+  width: 25rem;
+  margin-left: 8rem;
+  height: 15rem;
+  border-radius: 2rem;
+  margin-top: -1rem;
+}
+.log1 p {
+  padding-top: 1rem;
+}
+.log {
+  background-color: rgb(139, 72, 24);
+  margin-top: 1rem;
+}
